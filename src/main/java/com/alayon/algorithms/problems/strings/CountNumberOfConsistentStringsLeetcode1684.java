@@ -18,7 +18,7 @@ package com.alayon.algorithms.problems.strings;
  * Output: 7
  * Explanation: All strings are consistent.
  */
-public class CountNumberOfConsistentStrings1684 {
+public class CountNumberOfConsistentStringsLeetcode1684 {
 
     public int countConsistentStrings(String allowed, String[] words) {
         int consistent = 0;
