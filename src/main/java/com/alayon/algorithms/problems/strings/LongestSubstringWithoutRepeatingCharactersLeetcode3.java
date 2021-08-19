@@ -28,7 +28,7 @@ public class LongestSubstringWithoutRepeatingCharactersLeetcode3 {
         return max;
     }
 
-    public static int lengthOfLongestSubString22(String s){
+    public static int lengthOfLongestSubString2(String s){
         int max = 0;
         Map<String,Integer> map = new HashMap<>();
         int i=0,j=0;
